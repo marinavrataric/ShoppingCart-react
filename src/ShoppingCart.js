@@ -4,7 +4,7 @@ function ShoppingCart(props) {
 
     let num = props.amount
     num = (num + '').split('.')
-    console.log(num[0] + ' ' + num[1])
+    //console.log(num[0] + ' ' + num[1])
     
     return(
         <div className="cart">
@@ -18,7 +18,6 @@ function ShoppingCart(props) {
                     <p className="measure">{props.currency}/{props.measureUnit}</p>
                 </div>
             </div>
-          
             
             <button 
                 className="btnAdd" 

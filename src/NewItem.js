@@ -11,7 +11,7 @@ function NewItem(props) {
                 <h4 className="totalPrice"> Ukupno: {total} kn</h4>
                 <button 
                     className="btnDelete" 
-                    onClick={() => props.deleteItem(props.id, (props.price*props.counter))}
+                    onClick={() => props.deleteItem(props.id, total)}
                 >X</button>
             </div>
         </div>

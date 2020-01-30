@@ -187,3 +187,11 @@ hr{
     font-size: 30px;
     margin-left: 15px;
 }
+
+.filter {
+    width: 320px;
+    height: 27px;
+    padding-left: 10px;
+    margin-left: 22%;
+    margin-top: 40px;
+}

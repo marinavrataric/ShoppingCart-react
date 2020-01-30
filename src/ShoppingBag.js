@@ -1,7 +1,7 @@
 import React from 'react'
 
 import NewItem from './NewItem'
-import icon from './icon.png'
+import icon from './data/icon.png'
 
 function ShoppingBag(props) {
     const newItem = props.productInBag.map( item => {
@@ -30,7 +30,7 @@ function ShoppingBag(props) {
         
             <hr/>
             <h2 className="el-totalname">Ukupan iznos:</h2>
-            <h1 className="el-totalamount"> {props.totalAmount.toFixed(2)} kn </h1>
+            <h1 className="el-totalamount"> {props.totalAmount < 0 ? '0.00' : props.totalAmount.toFixed(2)} kn </h1>
         </div>
     )
 }
