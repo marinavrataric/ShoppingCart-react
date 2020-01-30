@@ -1,5 +1,6 @@
-![emptyCart](https://user-images.githubusercontent.com/21130451/73133377-2e6d3580-4028-11ea-86a2-94d0f61203a2.PNG)
-![cart](https://user-images.githubusercontent.com/21130451/73133378-2f9e6280-4028-11ea-8cc8-3419dfd95ddb.PNG)
+![filledbag](https://user-images.githubusercontent.com/21130451/73450596-ffc3c780-4365-11ea-9e1d-e3e99e0c674b.PNG)
+![searching](https://user-images.githubusercontent.com/21130451/73450597-ffc3c780-4365-11ea-92c3-5444f2bc75ad.PNG)
+![emptybag](https://user-images.githubusercontent.com/21130451/73450600-005c5e00-4366-11ea-886d-e57302a63472.PNG)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
